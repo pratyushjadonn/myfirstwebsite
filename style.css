@@ -1,0 +1,117 @@
+.sha{
+    display: flex;
+
+}
+.photu{
+    width: 100px;
+    height: 100px;
+}
+.head{
+    display: flex;
+}
+.guu{
+    margin-left: 200px;
+    margin-top: 30px;
+    justify-content: space-between;
+    
+    
+    
+}
+.ji{
+    margin-left: 500px;
+    margin-top: 30px;
+
+    
+}
+.first{
+    text-decoration: none;
+    color: white;
+}
+.second{
+    padding-left: 20px;
+    text-decoration: none;
+    color: white;
+}
+.third{
+    padding-left: 20px;
+    text-decoration: none;
+    color: white;
+}
+.head{
+    background-color: black;
+    
+}
+.corner{
+    color: white;
+    border:solid 2px white;
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 0.5rem;
+}
+.a{
+    margin-left: 10px;
+    color: white;
+}
+.first:hover{
+    color: purple;
+}
+.second:hover{
+    color: yellow;
+}
+.third:hover{
+    color: red;
+}
+.corner:hover{
+    background-color:brown;
+
+}
+.images{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 5px;
+    margin-left: 200px;
+    
+}
+.nature{
+    height: 250px;
+    width: 400px;
+    margin-left: 10px;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+.bottomimage{
+    display: flex;
+    height: 20px;
+    width: 20px;
+    margin-bottom: 10px;
+    
+}
+.bottom{
+    background-color: black ;
+
+}
+.s{
+    text-decoration: none;
+    color: white;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.e{
+    margin-left: 10px;
+}
+.f{
+    margin-left: 10px;
+}
+.r{
+    color: white;
+    margin-left:20px;
+    margin-top: 10px;
+
+}
+.d{
+    margin-left: 20px;
+}
+.nature:hover{
+    box-shadow:6px 6px 6px;
+    transition: 1s;
+}
